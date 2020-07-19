@@ -1,0 +1,15 @@
+current directory: /Users/araitakao/have-question/vendor/bundle/gems/bootsnap-1.4.6/ext/bootsnap
+/Users/araitakao/.rbenv/versions/2.6.5/bin/ruby -I /Users/araitakao/.rbenv/versions/2.6.5/lib/ruby/2.6.0 -r ./siteconf20200719-23646-6lcypp.rb extconf.rb
+creating Makefile
+
+current directory: /Users/araitakao/have-question/vendor/bundle/gems/bootsnap-1.4.6/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /Users/araitakao/have-question/vendor/bundle/gems/bootsnap-1.4.6/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/araitakao/have-question/vendor/bundle/gems/bootsnap-1.4.6/ext/bootsnap
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20200719-23646-lzliq8/bootsnap
